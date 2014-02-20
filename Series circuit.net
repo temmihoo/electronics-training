@@ -1,8 +1,0 @@
-*
-R1 A B 10
-R2 B C 10
-R3 C 0 20
-V1 A 0 10
-.op
-.backanno
-.end
