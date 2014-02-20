@@ -1,0 +1,7 @@
+*
+R1 N001 N002 R
+R2 N002 N003 R
+R3 N003 0 R
+V1 N001 0 V
+.backanno
+.end
