@@ -1,7 +1,8 @@
 *
-R1 N001 N002 R
-R2 N002 N003 R
-R3 N003 0 R
-V1 N001 0 V
+R1 A B 10
+R2 B C 10
+R3 C 0 20
+V1 A 0 10
+.op
 .backanno
 .end
